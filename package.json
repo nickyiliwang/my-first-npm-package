@@ -1,0 +1,14 @@
+{
+  "name": "@nickyiliwang/depression",
+  "version": "1.0.0",
+  "description": "Returns your name plus other things as strings",
+  "license": "MIT",
+  "repository": "nickyiliwang/my-first-npm-package",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "package",
+    "nickyiliwang",
+    "depression"
+  ]
+}
