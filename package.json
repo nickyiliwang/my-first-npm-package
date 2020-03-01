@@ -1,5 +1,5 @@
 {
-  "name": "@nickyiliwang/depression",
+  "name": "@nickyiliwang/moneypenny",
   "version": "1.0.0",
   "description": "Returns your name plus other things as strings",
   "license": "MIT",
@@ -9,6 +9,6 @@
     "npm",
     "package",
     "nickyiliwang",
-    "depression"
+    "Moneypenny"
   ]
 }
